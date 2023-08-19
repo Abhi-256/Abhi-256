@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Abhi-256
-- 👀 I’m interested in learning and working on hands on projects with in Data Analytics (Power BI, Tableau, SQL, Python). 
-- 👀 I have done Master's degree in Data Science,currently working as a Business Analyst. I'm currently creating a portfolio of mine to showcase my work in Power BI, SQL.
-- 🌱 I’m currently interested in learning Pyspark, Kafka and Kubernetes
-- 💞️ I’m looking to collaborate on Power BI, SQL and Data Engineering stuff
-- 📫 How to reach me ... vkakulavarapu25@gmail.com
+I am a technically competent Data Science Professional with experience in Data Science, Business and Data Analytics, Data Visualization, Research Methodology, handling and understanding large datasets and relational databases.
+
+I carry hands-on experience in performing EDA, data analysis dashboarding on Tableau and Power BI, and delivering PowerPoint presentations and storytelling to the business. I exhibit excellence in producing accurate and insightful dashboards detailing the process health, using insights available from the data, suggesting actionable for stakeholders and meaningful for management decision making.
+
+Over my career span I have built in-depth expertise in statistical analysis, data modeling, and programming languages such as Python and R. Proficient in data visualization tools such as Tableau and Power BI. I am a Data Visualization expert with skills to turn data into meaningful insights for stakeholders with sharp acumen in identifying areas of overlap or data gaps that can lead to increased value. 
+
+My competencies lie in analyzing data to produce successful business solutions with a great understanding of company operations and analytical tools for effective data analysis.
 
 
